@@ -32,9 +32,9 @@ REST CRUD seguro.
 
 
 ## 📊 GitHub Stats
-[![Streak](https://github-readme-stats.vercel.app/api?username=gil-gam&show_icons=true&theme=radical)](https://github.com/gil-gam)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=gil-gam&layout=compact&theme=radical)](https://github.com/gil-gam)  
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=gilgam)](https://wakatime.com/@gilgam)
+[![Streak](https://github-readme-stats.vercel.app/api?username=gil-gam&show_icons=false&theme=dracula&hide_border=true)](https://github.com/gil-gam)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=gil-gam&layout=compact&theme=dracula&hide_border=true)](https://github.com/gil-gam)  
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gilgam)](https://wakatime.com/@gilgam)
 
 
 ## 🌍 Currently Learning
