@@ -10,7 +10,7 @@
 💡 Building scalable AI-powered web solutions.  
 💡 Construindo soluções web escaláveis com IA.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilbertoandreatta) [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white)](https://gil-gam-portfolio.vercel.app) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilbertoandreattamaia@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilbertoandreatta) [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white)](https://vercel.com/gil-gams-projects) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilbertoandreattamaia@gmail.com)
 
 ## 🛠️ Tech Stack
 | Frontend | Backend | AI/ML | Tools |
