@@ -30,12 +30,12 @@ ML com ChromaDB + TF.js re-ranking neural.
 **JWT Auth API** | API ASP.NET com JWT  
 REST CRUD seguro.
 
-## 📊 GitHub Stats
-  [![Streak](https://github-readme-stats.vercel.app/api?username=gil-gam&show_icons=true&theme=dracula&hide_border=true&count_private=true)](https://github.com/gil-gam)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=gil-gam&layout=compact&theme=dracula&hide_border=true)](https://github.com/gil-gam)
 
-   [![Trophies](https://github-profile-trophy.vercel.app/?username=gil-gam&theme=radical&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-  [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=gil-gam)](https://wakatime.com/@gilgam)
+## 📊 GitHub Stats
+[![Streak](https://github-readme-stats.vercel.app/api?username=gil-gam&show_icons=true&theme=radical)](https://github.com/gil-gam)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=gil-gam&layout=compact&theme=radical)](https://github.com/gil-gam)  
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=gilgam)](https://wakatime.com/@gilgam)
+
 
 ## 🌍 Currently Learning
 - **Pós-Graduação**: Engenharia de Software com IA Aplicada (Anhanguera/UNIPDS, dez/2026)
