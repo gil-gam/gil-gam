@@ -13,6 +13,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: anuraghazra/github-readme-stats@master
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dracula&hide_border=true
+          path: github-readme-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=dracula&hide_border=true
+          path: top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
