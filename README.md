@@ -28,10 +28,6 @@
 RAG assistant com embeddings locais (Transformers.js), Neo4j e OpenRouter AI.  
 
 
-## 📈 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gil-gam&theme=dracula&hide_border=true)](https://github.com/gil-gam)
-
-
 ## 🌍 **Specialization**
 - Software Engineer with Applied AI
 - Software Architecture, Data Science and Cybersecurity
