@@ -28,16 +28,8 @@
 RAG assistant com embeddings locais (Transformers.js), Neo4j e OpenRouter AI.  
 
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://raw.githubusercontent.com/gil-gam/gil-gam/main/github-readme-stats.svg)
-
-![Top Langs](https://raw.githubusercontent.com/gil-gam/gil-gam/main/top-langs.svg)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gil-gam&theme=dracula&hide_border=true)](https://github.com/gil-gam)  
-
-## ⏱️ WakaTime
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gilgam)](https://wakatime.com/@gilgam)
+## 📈 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gil-gam&theme=dracula&hide_border=true)](https://github.com/gil-gam)
 
 
 ## 🌍 **Specialization**
